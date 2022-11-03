@@ -29,6 +29,9 @@ BOARD_SEPOLICY_DIRS += hardware/google/pixel-sepolicy/powerstats
 # sscoredump
 BOARD_SEPOLICY_DIRS += hardware/google/pixel-sepolicy/sscoredump
 
+# ConnectivityThermalPowerManager
+BOARD_SEPOLICY_DIRS += hardware/google/pixel-sepolicy/connectivity_thermal_power_manager
+
 # ramdump
 BOARD_SEPOLICY_DIRS += hardware/google/pixel-sepolicy/ramdump
 
